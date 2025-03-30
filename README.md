@@ -199,7 +199,7 @@ than HDDs.
 Lorem ipsum
 
 ### 7. Contact
-Wish to recommend a project? Do you need help? Please visit the [Issues][61] page.
+Do you need help? Please visit the [Issues][61] page.
 
 [61]: https://github.com/portellam/unleashx-xml-config/issues
 
