@@ -2,7 +2,7 @@
 ### In Development
 
 ## [Download](#2-download)
-#### View this repository on [Codeberg][01], [GitHub][02].
+#### View this repository on [Codeberg][01] or [GitHub][02].
 [01]: https://codeberg.org/portellam/unleashx-xml-config
 [02]: https://github.com/portellam/unleashx-xml-config
 ##
@@ -23,7 +23,7 @@ Original Xbox softmod guide and custom config files for `UnleashX` dashboard.
 Includes insights, recommendations, and common sense backend changes.
 
 ### 2. Download
-- Download the Latest Release:&ensp;[Codeberg][21], [GitHub][22]
+- Download the Latest Release:&ensp;[Codeberg][21] or [GitHub][22].
 
 - Download the `.zip` file:
     1. Viewing from the top of the repository's (current) webpage, click the
